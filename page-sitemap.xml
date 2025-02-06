@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/fernley/</loc>
+		<lastmod>2025-02-06T20:31:57+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/elko/</loc>
-		<lastmod>2025-02-06T00:40:32+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/boulder-city/</loc>
-		<lastmod>2025-02-06T00:40:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/carson-city/</loc>
-		<lastmod>2025-02-06T00:40:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/fernley/</loc>
-		<lastmod>2025-02-06T00:40:31+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/north-las-vegas/</loc>
-		<lastmod>2025-02-06T00:40:30+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sparks/</loc>
-		<lastmod>2025-02-06T00:40:30+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/carson-city/</loc>
+		<lastmod>2025-02-06T20:31:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/reno/</loc>
-		<lastmod>2025-02-06T00:40:29+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/gardnerville/</loc>
-		<lastmod>2025-02-06T00:40:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tonopah/</loc>
-		<lastmod>2025-02-06T00:40:28+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/henderson/</loc>
-		<lastmod>2025-02-06T00:40:28+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/caliente/</loc>
-		<lastmod>2025-02-06T00:40:27+00:00</lastmod>
+		<loc>/tonopah/</loc>
+		<lastmod>2025-02-06T20:31:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/searchlight/</loc>
-		<lastmod>2025-02-06T00:40:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/yerington/</loc>
-		<lastmod>2025-02-06T00:40:26+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lovelock/</loc>
-		<lastmod>2025-02-06T00:40:26+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/caliente/</loc>
+		<lastmod>2025-02-06T20:31:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ely/</loc>
-		<lastmod>2025-02-06T00:40:25+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/fallon/</loc>
-		<lastmod>2025-02-06T00:40:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/winnemucca/</loc>
-		<lastmod>2025-02-06T00:40:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/mesquite/</loc>
-		<lastmod>2025-02-06T00:40:23+00:00</lastmod>
+		<loc>/yerington/</loc>
+		<lastmod>2025-02-06T20:31:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pahrump/</loc>
-		<lastmod>2025-02-06T00:40:23+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/fallon/</loc>
+		<lastmod>2025-02-06T20:31:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/winnemucca/</loc>
+		<lastmod>2025-02-06T20:31:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/mesquite/</loc>
+		<lastmod>2025-02-06T20:31:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/las-vegas/</loc>
-		<lastmod>2025-02-06T00:40:22+00:00</lastmod>
+		<lastmod>2025-02-06T20:31:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
